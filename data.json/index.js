@@ -25,3 +25,5 @@ const makeCommit = n => {
 };
 
 makeCommit(50); // Thực hiện 50 commit
+
+run it
